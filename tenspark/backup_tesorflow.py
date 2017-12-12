@@ -1,3 +1,6 @@
+# Real-time object detection through video stream using Tensorflow
+# Authors: Saurabh Deochake, Ridip De, Anish Grover
+
 import numpy as np
 import os
 import urllib
